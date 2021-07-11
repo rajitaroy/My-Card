@@ -18,7 +18,7 @@ const data = {
   handle: chalk.cyan('@rajitaroy'),
   // labelWork: chalk.white.bold('      Work:'),
   // work: chalk.white('In progress'),
-  labelInstagram: chalk.white.bold('      Instagram:'),
+  labelInstagram: chalk.white.bold(' Instagram:'),
   instagram: chalk.green('https://instagram.com/rajita._roy'),
   labelTwitter: chalk.white.bold('   Twitter:'),
   twitter: chalk.green('https://twitter.com/RajitaRoy1'),
