@@ -18,15 +18,17 @@ const data = {
   handle: chalk.cyan('@rajitaroy'),
   // labelWork: chalk.white.bold('      Work:'),
   // work: chalk.white('In progress'),
+  labelInstagram: chalk.white.bold('      Instagram:'),
+  instagram: chalk.green('https://instagram.com/rajita._roy'),
   labelTwitter: chalk.white.bold('   Twitter:'),
-  twitter: chalk.cyan('https://twitter.com/RajitaRoy1'),
+  twitter: chalk.green('https://twitter.com/RajitaRoy1'),
   labelGitHub: chalk.white.bold('    GitHub:'),
-  github: chalk.cyan('https://github.com/rajitaroy'),
+  github: chalk.green('https://github.com/rajitaroy'),
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
-  linkedin: chalk.cyan('https://linkedin.com/in/rajita-roy'),
+  linkedin: chalk.green('https://linkedin.com/in/rajita-roy'),
   labelWeb: chalk.white.bold('       Web:'),
-  web: chalk.cyan('https://portfolio-rajita.herokuapp.com/'),
-  labelCard: chalk.white.bold('      Card:'),
+  web: chalk.green('https://portfolio-rajita.herokuapp.com/'),
+  labelCard: chalk.white.bold('      npm:'),
   npx: chalk.white('https://www.npmjs.com/~rajitaroy'),
 }
 
@@ -34,6 +36,7 @@ const data = {
 const newline = '\n'
 const heading = `${data.name} / ${data.handle}`
 // const working = `${data.labelWork}  ${data.work}`
+const instagramming= `${data.labelInstagram}  ${data.instagram}`
 const twittering = `${data.labelTwitter}  ${data.twitter}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
@@ -45,6 +48,8 @@ const carding = `${data.labelCard}  ${data.npx}`
 const output =
   heading +
   newline +
+  newline +
+  instagramming +
   newline +
   twittering +
   newline +
