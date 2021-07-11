@@ -1,6 +1,6 @@
 {
   "name": "rajitaroy",
-  "version": "1.10.2",
+  "version": "1.10.4",
   "description": "Rajita Roy (@rajitaroy)'s business card",
   "main": "./bin/card.js",
   "bin": {
