@@ -1,0 +1,23 @@
+{
+  "name": "rajitaroy",
+  "version": "1.2.0",
+  "description": "Rajita Roy (@rajitaroy)'s business card",
+  "main": "./bin/card.js",
+  "bin": {
+    "rajitaroy": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajitaroy/My-Card.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Rajita Roy",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0"
+  }
+}
