@@ -1,1 +1,1 @@
-Hit `npx rajitaroy` to know more about me!
+Hit `npx rajitaroy` on your command prompt or console to know more about me!
