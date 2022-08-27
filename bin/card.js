@@ -27,7 +27,7 @@ const data = {
   labelLinkedIn: chalk.white.bold('  LinkedIn:'),
   linkedin: chalk.green('https://linkedin.com/in/rajita-roy'),
   labelWeb: chalk.white.bold('       Web:'),
-  web: chalk.green('https://portfolio-rajita.herokuapp.com/'),
+  web: chalk.green('https://rajitaroy.netlify.app/'),
   labelCard: chalk.white.bold('      npm:'),
   npx: chalk.white('https://www.npmjs.com/~rajitaroy'),
 }
